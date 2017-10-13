@@ -1,0 +1,21 @@
+{
+  "name": "node_wep_server",
+  "version": "1.0.0",
+  "description": "tutorial from the course complete node js tut about how to create web servers with node and express framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "npm",
+    "hbs"
+  ],
+  "author": "saman jasim",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.1",
+    "hbs": "^4.0.1",
+    "nodemon": "^1.12.1"
+  }
+}
